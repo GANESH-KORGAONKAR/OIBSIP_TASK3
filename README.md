@@ -1,5 +1,8 @@
-# OIBSIP_TASK3: ATM Interface
+# OIBSIP_TASK3
+Oasis Infobyte Internship Project
+
 # ATM Interface
+
 This is a simple ATM interface developed as part of the Oasis Infobyte Internship Project. The application allows users to interact with their bank accounts using a command-line interface. Users can create new accounts, log in to existing accounts, and perform various banking operations such as checking their balance, withdrawing, depositing, transferring funds, and viewing transaction history.
 
 Welcome to the ATM Interface! This project is a simple console-based application that simulates an ATM system, allowing users to perform various banking operations such as checking balances, withdrawing funds, depositing funds, transferring money, and viewing transaction history.
