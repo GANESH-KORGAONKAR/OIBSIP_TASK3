@@ -11,7 +11,6 @@ Welcome to the ATM Interface! This project is a simple console-based application
 - [Features](#features)
 - [Requirements](#requirements)
 - [Setup and Installation](#setup-and-installation)
-- [How to Run](#how-to-run)
 - [Usage](#usage)
 - [Classes and Methods](#classes-and-methods)
 - [Acknowledgements](#acknowledgements)
@@ -34,17 +33,6 @@ Welcome to the ATM Interface! This project is a simple console-based application
 1. Ensure you have the Java Development Kit (JDK) installed on your system.
 2. Download or clone the project code to your local machine.
 3. Open the code in your preferred IDE or text editor.
-
-## How to Run
-1. Navigate to the directory containing the project files.
-2. Compile the Java files using the following command:
-   ```bash
-   javac atm/ATM_logic.java
-   ```
-3. Run the compiled Java program using the following command:
-   ```bash
-   java atm.ATM_logic
-   ```
 
 ## Usage
 1. **Login**: Enter your User ID and PIN to log in. If you do not have an account, create a new one.
@@ -87,4 +75,4 @@ Welcome to the ATM Interface! This project is a simple console-based application
 - **main(String[] args)**: Main method to run the ATM application.
 
 ## Acknowledgements
-This project was developed as part of the Oasis Infobyte Internship. Special thanks to the team at Oasis Infobyte for providing this opportunity and the necessary guidelines for the project.
+This project was developed as part of the Oasis Infobyte Internship. Special thanks to the team at Oasis Infobyte for providing this opportunity and the necessary guidelines for the project. Additionally, I received valuable assistance in adding comments and refining the code from ChatGPT.
