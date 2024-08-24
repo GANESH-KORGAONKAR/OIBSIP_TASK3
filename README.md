@@ -13,6 +13,7 @@ Welcome to the ATM Interface! This project is a simple console-based application
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Classes and Methods](#classes-and-methods)
+- [Sample Output](#sample-output)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
@@ -73,6 +74,15 @@ Welcome to the ATM Interface! This project is a simple console-based application
 - **addUser(User user)**: Adds a new user to the ATM system.
 - **login(int userId, int pin)**: Authenticates a user based on user ID and PIN.
 - **main(String[] args)**: Main method to run the ATM application.
+
+## Sample Output
+### Output Screenshot
+
+### 1]
+<img src="https://github.com/user-attachments/assets/4ce99be8-fa6b-4b7c-95d2-3926f7af67ff" alt="ATM Interface OutPut 1" width="500" height="300" align="center">
+
+### 2]
+<img src="https://github.com/user-attachments/assets/30bd91f7-584a-4b06-9f92-88cbcee03de1" alt="ATM Interface OutPut 2" width="500" height="300" align="center">
 
 ## Acknowledgements
 This project was developed as part of the Oasis Infobyte Internship. Special thanks to the team at Oasis Infobyte for providing this opportunity and the necessary guidelines for the project. Additionally, I received valuable assistance in adding comments and refining the code from ChatGPT.
